@@ -53,6 +53,7 @@ public class Calculadora {
                 System.out.println("la opcion no es valida");
                     break;
             }
+            lectura.close();
             }
             
             
