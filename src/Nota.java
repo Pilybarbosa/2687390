@@ -19,7 +19,7 @@ public class Nota {
 
         promedio=(nota1+nota2+nota3+asistencia)/3;
 
-        if (promedio>=3.5 && asistencia>=70 || nombre.equals("jennifer")){
+        if (promedio>=3.5 && asistencia>=70 || nombre.equals("jenifer")){
             //si condicion se cumple 
             System.out.println("aprobaste "); 
 
